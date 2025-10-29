@@ -1,0 +1,26 @@
+# 1. ENVIRONNEMENTS VIRTUELS (OBLIGATOIRE)
+# Ignorer le dossier venv et les dossiers d'environnements similaires
+venv/
+
+
+
+models/
+checkpoints/
+logs/
+runs/
+
+
+
+*.bin
+*.pt
+*.safetensors
+*.pth
+.huggingface_cache/
+.pytorch_cache/
+
+
+
+__pycache__/
+*.pyc
+*.o
+*.so
