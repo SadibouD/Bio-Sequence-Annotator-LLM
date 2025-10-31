@@ -1,4 +1,10 @@
 biopython
-openai
 transformers
 torch
+sacremoses
+protobuf
+sckit-learn
+pandas
+datasets
+accelerate
+tqdm
